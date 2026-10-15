@@ -10,31 +10,58 @@ A one-person software studio that insists on doing everything the hard way.
 
 <br />
 
-<h3 align="center">The pile of tools I tell myself I chose</h3>
+<h3 align="center">The stack, and the excuses for it</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bun-101010?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-101010?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-101010?style=for-the-badge&logo=drizzle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Turborepo-101010?style=for-the-badge&logo=turborepo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-101010?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-101010?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Bun-101010?style=for-the-badge&logo=bun&logoColor=white" align="left" height="28" />&nbsp;&nbsp;&nbsp;Replaces four build tools and one will to live.
+</p>
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=white" align="left" height="28" />&nbsp;&nbsp;&nbsp;JavaScript, but it stops me before I do something embarrassing.
+</p>
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-101010?style=for-the-badge&logo=nextdotjs&logoColor=white" align="left" height="28" />&nbsp;&nbsp;&nbsp;Ships a router so I never have to write one and then resent it.
+</p>
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=white" align="left" height="28" />&nbsp;&nbsp;&nbsp;For the side projects where the borrow checker is the only code reviewer.
+</p>
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=white" align="left" height="28" />&nbsp;&nbsp;&nbsp;Remembers everything, unlike me at 3am.
+</p>
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-101010?style=for-the-badge&logo=cloudflare&logoColor=white" align="left" height="28" />&nbsp;&nbsp;&nbsp;Cheap, fast, and judging me from the edge.
 </p>
 
 <br />
 
-<h3 align="center">Statistics, for the people who like numbers more than software</h3>
+<h3 align="center">What people are saying</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kuureki&show_icons=true&count_private=true&bg_color=101010&title_color=F7F7F7&text_color=F7F7F7&icon_color=F7F7F7&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuureki&layout=compact&bg_color=101010&title_color=F7F7F7&text_color=F7F7F7&hide_border=true" alt="Top Languages" />
+  <sub>"Please stop emailing me."</sub><br />
+  <sub>— my manager, probably</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <sub>"Who is this?"</sub><br />
+  <sub>— every recruiter</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <sub>" "</sub><br />
+  <sub>— a satisfied user, with no further comment</sub>
 </p>
 
 <br />
