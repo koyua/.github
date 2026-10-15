@@ -30,22 +30,11 @@ A one-person software studio that insists on doing everything the hard way.
 
 <br />
 
-<h3 align="center">Things that exist because of me</h3>
-
-<p align="center">
-  <a href="https://github.com/Kuureki/Seasonly"><img src="https://img.shields.io/badge/Seasonly-101010?style=for-the-badge&logo=discord&logoColor=white" alt="Seasonly" /></a>
-  <a href="https://github.com/Kuureki/Kuureki"><img src="https://img.shields.io/badge/Kuureki-101010?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Kuureki" /></a>
-  <a href="https://github.com/Kuureki/hallis"><img src="https://img.shields.io/badge/hallis-101010?style=for-the-badge&logo=discord&logoColor=white" alt="hallis" /></a>
-  <a href="https://github.com/Kuureki/Botawings"><img src="https://img.shields.io/badge/Botawings-101010?style=for-the-badge" alt="Botawings" /></a>
-</p>
-
-<br />
-
 <h3 align="center">Statistics, for the people who like numbers more than software</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kuureki&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuureki&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kuureki&show_icons=true&count_private=true&bg_color=101010&title_color=F7F7F7&text_color=F7F7F7&icon_color=F7F7F7&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuureki&layout=compact&bg_color=101010&title_color=F7F7F7&text_color=F7F7F7&hide_border=true" alt="Top Languages" />
 </p>
 
 <br />
